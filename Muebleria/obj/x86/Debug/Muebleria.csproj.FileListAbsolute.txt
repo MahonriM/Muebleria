@@ -1,0 +1,7 @@
+C:\Users\chumo\documents\visual studio 2010\Projects\Muebleria\Muebleria\bin\Debug\Muebleria.exe
+C:\Users\chumo\documents\visual studio 2010\Projects\Muebleria\Muebleria\bin\Debug\Muebleria.pdb
+C:\Users\chumo\documents\visual studio 2010\Projects\Muebleria\Muebleria\obj\x86\Debug\Muebleria.Form1.resources
+C:\Users\chumo\documents\visual studio 2010\Projects\Muebleria\Muebleria\obj\x86\Debug\Muebleria.Properties.Resources.resources
+C:\Users\chumo\documents\visual studio 2010\Projects\Muebleria\Muebleria\obj\x86\Debug\Muebleria.csproj.GenerateResource.Cache
+C:\Users\chumo\documents\visual studio 2010\Projects\Muebleria\Muebleria\obj\x86\Debug\Muebleria.exe
+C:\Users\chumo\documents\visual studio 2010\Projects\Muebleria\Muebleria\obj\x86\Debug\Muebleria.pdb
